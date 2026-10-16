@@ -53,7 +53,7 @@ Recommendations
 5. Update the analysis with newer data when conducting research on current COVID-19 trends.
 
 Files
-1. Project 2.ipynb - Google Colab notebook containing data cleaning, analysis, visualizations, and findings.
+1. Project_2.ipynb - Google Colab notebook containing data cleaning, analysis, visualizations, and findings.
 2. COVID19_Cleaned_Selected_Countries.csv - Cleaned dataset for the five selected countries.
 3. COVID19_Executive_Summary.pdf - Executive summary of the project findings.
 4. Project 2.pbix - Power BI dashboard containing KPI cards, trend charts, country comparisons, and a country slicer.
