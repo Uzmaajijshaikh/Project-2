@@ -62,3 +62,5 @@ Files
 
 Conclusion
 The COVID-19 Global Impact Analysis Project was completed using Python, SQL-related data analysis workflows where applicable, and Power BI for interactive visualization. The analysis identified differences in reported cases, deaths, population-adjusted rates, and seven-day trends across five selected countries. The findings demonstrate the value of data cleaning, time-series analysis, and dashboard development in communicating public health information. The results should be interpreted within the limitations of the selected countries, study period, and available data.
+
+Temporary rollback test — version 2
