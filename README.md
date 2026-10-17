@@ -10,7 +10,6 @@ Tools Used
 1. Google Colab
 2. Python (Pandas and Matplotlib)
 3. Power BI Desktop
-4. ReportLab for PDF generation
 
 COVID-19 Global Impact Analysis
 1. Used the Our World in Data COVID-19 dataset containing 44,785 records and 41 columns.
